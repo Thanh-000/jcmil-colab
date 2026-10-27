@@ -1,0 +1,16 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pt
+*.bin
+*.partial
+*.aria2
+*.log
+*.zip
+*.tar.gz
+data_image/
+manifest_common_label_v1.json
+audit_2026_10_26/
+results/
+.env
+*.xml

@@ -1,0 +1,2 @@
+# Keep the scientific/CUDA stack supplied by Colab.
+transformers==4.57.6
